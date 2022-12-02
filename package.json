@@ -1,6 +1,6 @@
 {
   "name": "showcase",
-  "home": "https://kudlatskaya.github.io/showcase",
+  "homepage": "https://kudlatskaya.github.io/showcase",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
